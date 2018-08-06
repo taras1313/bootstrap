@@ -4,7 +4,7 @@ section.center {
     border-left: #e3e3e3 1px solid; 
     border-right: #e3e3e3 1px solid; 
     /* margin-left: 343px; */
-    height: 3070px;
+    height: auto;
 }
 
 .center h2 {
@@ -124,7 +124,7 @@ section.center {
     background-repeat: no-repeat;
     background-position: right;
     color: #900022;
-    margin: 0 auto 25px;
+    margin: 0 auto;
 }
 
 

@@ -150,7 +150,8 @@ div.n3 {
 
 .arrows {
 	text-align: center;
-	margin-top: 12px;
+/*	margin-top: 12px;*/
+    align-self: center;
 }
 
 .text-end {
